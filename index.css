@@ -1,0 +1,74 @@
+.parent{
+    position:absolute;
+    top:47px;
+    right:47px;
+    left:38px;
+    border:2px solid black;
+}
+.para{
+    font-family: inter;
+    font-style:mixed;
+    font-weight:700px;
+    font-style:italic;
+    font-size:40px;
+    line-height:48.41px;
+    line-height: 100%;
+    margin:90.49px;
+}
+.heading{
+    font-family:Inter;
+    font-style: normal;
+    font-weight:400px;
+    font-size:64px;
+    line-height:48.41px;
+    
+}
+.image{
+    font-family: Inter;
+    font-style: Bold;
+    font-size: 64px;
+    align: Left;
+    position:absolute;
+    top:742px;
+    left:58px;
+    right:708px;
+}
+.dogimg{
+    width:1051px;
+    height:762px;
+    position:absolute;
+    top:874px;
+    bottom:722px;
+    right:619px;
+    left:58px;
+}
+.more{
+    width: 245px;
+    height:48px;
+    position:absolute;
+    top:1636px;
+    bottom:640px;
+    left:58px;
+    right:1425px;
+    font-size:40px;
+    font-style:regular;
+}
+.list{
+    border:2px solid black;
+    position:absolute;
+    top:1795px;
+    left:58px;
+    right:47px;
+}
+.text{
+    width:1623px;
+    height:469px;
+    font-family:Inter;
+    font-style: normal;
+    font-weight:400px;
+    font-size:40px;
+    line-height:48.41px;
+}
+span{
+    font-weight:bold;
+}
